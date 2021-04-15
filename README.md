@@ -1,6 +1,7 @@
 **IPL Data Analysis**
 
- **The Final Tableau Visualization with Observation can be found on Tableau Public.
+
+**The Final Tableau Visualization with Observation can be found on Tableau Public.
 Link: https://tabsoft.co/3x0gDQI**
 
 **Description:**
@@ -32,4 +33,7 @@ The objective of this project is to look back and reflect on previous performanc
      
      5.Who are the Orange and Purple cap holders for each year and among them who concede the highest Runs and Wickets?
 
+
+
+**Link to the Dataset:  https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020**
  
