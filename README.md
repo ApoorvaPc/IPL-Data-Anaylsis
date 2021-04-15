@@ -1,7 +1,7 @@
-**#IPL Data Analysis**
+**IPL Data Analysis**
 
  **The Final Tableau Visualization with Observation can be found on Tableau Public.
-#Link: https://tabsoft.co/3x0gDQI**
+Link: https://tabsoft.co/3x0gDQI**
 
 **Description:**
 
